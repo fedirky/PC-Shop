@@ -2,8 +2,6 @@
 
 A lightweight front‑end for a PC components/shop demo built with **Vue 3**, **Vite**, and **TypeScript**.
 
-> This README is based on the repository layout you provided (archive: `pc shop.rar`). If something looks off, let me know and I’ll adjust.
-
 ---
 
 ## Overview
